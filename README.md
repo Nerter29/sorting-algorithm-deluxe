@@ -1,13 +1,11 @@
-DESCRIPTION:  
+# Description:  
 
-Visualisation de differents algorithmes de tris, où les éléments sont représentés par des rectanges multicolores et sont triés avec toutes les animations et même des effets sonores.    
+Visualization of different sorting algorithms, where the elements are represented by multicolored rectangles and are sorted with cool animations and even sound effects.
+# Installation:  
 
-INSTALLATION:  
+- Download the .zip
+- Extract it
+- Double-click the .exe file (it normally has an icon)
 
--téléchargez le .zip  
--extrayez le  
--double cliquez sur le fichier .exe (il a une icone normalement)  
-
-Pour les utilisateurs Linux, le logiciel Wine arrive très bien à faire tourner le .exe, il faudra juste l'installer (sudo pacman -S wine pour archlinux)  
-
+For Linux users, the Wine package is very good at running the .exe, you just need to install it 
 
