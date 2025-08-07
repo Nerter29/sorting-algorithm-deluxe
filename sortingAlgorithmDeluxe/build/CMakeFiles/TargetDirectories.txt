@@ -1,9 +1,0 @@
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/sortingAlgorithmDeluxe.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/edit_cache.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/rebuild_cache.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/list_install_components.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/install.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/install/local.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/install/strip.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/sortingAlgorithmDeluxe_autogen_timestamp_deps.dir
-C:/Users/teren/QTProjects/sortingAlgorithmDeluxe/build/CMakeFiles/sortingAlgorithmDeluxe_autogen.dir

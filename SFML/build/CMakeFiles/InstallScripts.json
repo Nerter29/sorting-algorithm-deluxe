@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/cmake_install.cmake",
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/src/SFML/cmake_install.cmake",
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/src/SFML/System/cmake_install.cmake",
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/src/SFML/Window/cmake_install.cmake",
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/src/SFML/Network/cmake_install.cmake",
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/src/SFML/Graphics/cmake_install.cmake",
+		"/home/terence/0-documents/0-perso/1-projets-non-executables/QTProjects/sortingAlgorithmDeluxe/SFML/build/src/SFML/Audio/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

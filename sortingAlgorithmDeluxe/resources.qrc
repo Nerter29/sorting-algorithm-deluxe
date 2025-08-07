@@ -1,9 +1,0 @@
-<!DOCTYPE RCC>
-<RCC version="1.0">
-<qresource prefix="/">
-    <file>res/icon.png</file>
-    <file>res/Renogare.ttf</file>
-    <file>res/nerterLogo.png</file>
-
-</qresource>
-</RCC>
